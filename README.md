@@ -6,3 +6,8 @@ Machine Learning with Python
 https://br.udacity.com/courses/machine-learning-engineer
 
 
+---
+
+https://br.udacity.com/course/fundamentos-machine-learning--nd109
+
+

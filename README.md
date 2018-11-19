@@ -10,4 +10,6 @@ https://br.udacity.com/courses/machine-learning-engineer
 
 https://br.udacity.com/course/fundamentos-machine-learning--nd109
 
+https://br.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898
+
 
